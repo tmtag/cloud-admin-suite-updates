@@ -11,11 +11,6 @@
 - Portable `.zip`:
   [Скачать portable](https://github.com/tmtag/cloud-admin-suite-updates/releases/latest/download/cloud-admin-suite-portable.zip)
 
-## Как это работает
-
-- После успешной сборки в основном приватном репозитории GitHub Actions публикует релиз сюда.
-- Приложение проверяет этот репозиторий и предлагает обновление автоматически.
-
 ## Примечание
 
 Если кнопка скачивания не работает, откройте раздел [Releases](https://github.com/tmtag/cloud-admin-suite-updates/releases) и скачайте файл вручную.
